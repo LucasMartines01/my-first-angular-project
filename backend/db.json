@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "O que você faria se não tivesse medo?",
+      "autoria": "Sheryl Sandberg",
+      "modelo" : "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Angular é o melhor",
+      "autoria": "Lucas",
+      "modelo" : "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Testando o modelo 3",
+      "autoria": "Luscas",
+      "modelo" : "modelo3"
+    }
+  ]
+}
