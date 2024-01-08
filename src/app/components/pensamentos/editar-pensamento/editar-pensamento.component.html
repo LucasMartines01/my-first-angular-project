@@ -2,7 +2,7 @@
   <header class="header">
     <h2>Editar um<br />pensamento:</h2>
   </header>
-  <form>
+  <form [formGroup]="formulario">
     <label for="pensamento">Pensamento</label>
     <input
       type="textarea"
@@ -50,7 +50,7 @@
             type="radio"
             id="modelo1"
             value="modelo1"
-            name="modelo-card"
+            name="modelo"
             formControlName="modelo"
           />
           <div class="custom-radio">
@@ -74,7 +74,7 @@
             type="radio"
             id="modelo2"
             value="modelo2"
-            name="modelo-card"
+            name="modelo"
             formControlName="modelo"
           />
           <div class="custom-radio">
@@ -98,7 +98,7 @@
             type="radio"
             id="modelo3"
             value="modelo3"
-            name="modelo-card"
+            name="modelo"
             formControlName="modelo"
           />
           <div class="custom-radio">
