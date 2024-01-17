@@ -1,20 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "O que você faria se não tivesse medo?",
-      "autoria": "Sheryl Sandberg",
-      "modelo": "modelo1",
-      "favorito": true
-    },
-    {
-      "id": 2,
-      "conteudo": "Testando editar Angular",
-      "autoria": "Lucas",
-      "modelo": "modelo2",
-      "favorito": false
-    },
-    {
       "id": 781.8481966674502,
       "conteudo": "Aprendendo Angular",
       "autoria": "Lucas",
@@ -26,7 +12,7 @@
       "conteudo": "Teste Post API",
       "autoria": "Dev Angular",
       "modelo": "modelo3",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 651,
